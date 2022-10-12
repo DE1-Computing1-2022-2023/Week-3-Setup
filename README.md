@@ -16,4 +16,5 @@ git config --global user.email "email@example.com"
 
 3. Set up an ssh-key by following [Github's instructions](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). Be sure to follow all the steps to generate the key and also [add it to your Github account](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
-4. Log into your Github account if you haven't already, then click on the link in Blackboard to the exercises for Week 3. This will create a personal copy of the exercises for you in your Github account.
+4. Log into your Github account if you haven't already, then click on the link in Blackboard to the exercises for Week 3. Follow the steps to register for the Github Classroom for Computing 1 and be sure to select your name and college username to associate your Github Classroom account with your general Github account. (The Classroom registration link is intentionally only on Blackboard as a mild security measure.) 
+5. Click on the final link in the Week 3 exercises on Blackboard to generate a private copy of the git repository of Python exercises within your Github Classroom account. From now on the weekly exercises will always be accessed this way.
